@@ -18,3 +18,7 @@
 /RepositoryExample/Repository/obj
 /RepositoryExample/SQLDatabase/bin/Debug/net7.0
 /RepositoryExample/SQLDatabase/obj
+/.vs
+/ExampleDeployment.API/bin
+/ExampleDeployment.API/obj
+/ExampleDeployment.API/ExampleDeployment.API.csproj.user
